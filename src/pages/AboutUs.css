@@ -1,0 +1,21 @@
+/* About Us page styles */
+.about-us {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .gallery {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .gallery img {
+    width: 45%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  h3 {
+    margin-top: 20px;
+  }

@@ -1,0 +1,13 @@
+/* News page styles */
+.news {
+    padding: 20px;
+  }
+  
+  ul {
+    margin-top: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+  }
